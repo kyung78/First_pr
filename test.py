@@ -1,1 +1,2 @@
-ddd
+def test():
+    print('test')
