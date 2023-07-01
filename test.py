@@ -1,2 +1,3 @@
 def test():
-    print('test2')
+    print('test')
+    print(1111111)
